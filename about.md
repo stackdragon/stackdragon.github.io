@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Steve"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+![alt text](https://github.com/stackdragon/stackdragon.github.io/blob/master/images/avatar.jpg "It's me!")
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+My interest in computer science goes back to my youth when I picked up a copy of the book Turbo C++ Programming 101 from my local library. While I was fascinated by the concept of programming as a teenager, I never pursued any formal education in computer science. However, after observing how my current profession was being rapidly transformed by information technology, I decided to correct that mistake. In the Winter of 2018 I enrolled in the B.S. in Computer Science program at Oregon State University. This blog will chronicle my thoughts and experiences as I learn computer science in my 30s. Maybe this time around I’ll finally be able to understand pointers!
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+## Contact Me
+You can contact me via [Twitter](https://www.twitter.com/stackdragon) or view a list of my programming projects on [GitHub](https://github.com/stackdragon).
 
-Thanks for reading!
+Thanks for stopping by!
