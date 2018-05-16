@@ -1,14 +1,13 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Steve Learns Computer Science
+description:    "Steve Learns Computer Science"
+url:            "https://stackdragon.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Steve
+  url:          http://www.stevep.net
+  email:        
 
 # Build settings
 markdown:       kramdown
